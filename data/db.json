@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My First blog",
+      "body": "ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opening party",
+      "body": "ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+      "author": "pallavi",
+      "id": 2
+    }
+  ]
+}
